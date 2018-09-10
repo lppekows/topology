@@ -33,7 +33,7 @@ Resources:
           Name: Peter Couvares
     Description: Sugar cluster submit node for LIGO.
     Disable: false
-    FQDN: sugar-dev2.phy.syr.edu
+    FQDN: sugwg-scitokens.phy.syr.edu
     ID: 771
     Services:
       Submit Node:
